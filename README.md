@@ -102,7 +102,7 @@ Sistema para simulação de um ambiente real de pedidos:
 ---
 
 ## 📄 Material Complementar
-- Apostila em PDF sobre **Algoritmos e Lógica de Programação**
+- Apostila em PDF sobre **Algoritmos e Lógica de Programação** que fiz para me auxiliar durante o curso.
 
 📄 `ALGORITMO _ LÓGICA PROGRAMAÇÃO.pdf`
 
