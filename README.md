@@ -11,7 +11,7 @@ O conteúdo aborda desde os fundamentos da lógica de programação até conceit
 O repositório está organizado conforme as seções do curso:
 
 ### 1️⃣ Introdução 
-– Olá, Mundo
+- Olá, Mundo
 - Primeiro contato com a linguagem  
 
 📁 `1_OLÁ_MUNDO`
